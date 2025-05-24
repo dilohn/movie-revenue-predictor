@@ -32,8 +32,7 @@ Ensure you have the following installed:
 - Ultralytics YOLOv8 (`ultralytics`)
 - Pretrained YOLOv8 model weights (`yolov8x.pt`)
 
-### Sample Output (Mickey 17)
+### Sample Output (Mickey 17 - week after release)
 
-Predicting for a week after it's release
 Predicted Revenue: \$78,132,304.00  
 Reported Revenue: \$53,300,000.00

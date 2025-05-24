@@ -33,6 +33,7 @@ Ensure you have the following installed:
 - Pretrained YOLOv8 model weights (`yolov8x.pt`)
 
 ### Sample Output (Mickey 17)
+
 Predicting for a week after it's release
 Predicted Revenue: \$78,132,304.00  
 Reported Revenue: \$53,300,000.00
